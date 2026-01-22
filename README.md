@@ -42,4 +42,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Data-Science-Using-Python&theme=default" />
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=C-Plus-Programs&theme=default" />
-
