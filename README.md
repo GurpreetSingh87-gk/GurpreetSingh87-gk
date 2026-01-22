@@ -29,17 +29,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=GurpreetSingh87-gk&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetSingh87-gk&layout=donut)](https://github.com/GurpreetSingh87-gk/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetSingh87-gk)](https://github.com/GurpreetSingh87-gk/github-readme-stats)
 
 ###  Top Repositories
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Python-Programs&theme=default" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Web-Development-Programs&theme=default" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Web-Development-Projects&theme=default" />
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Data-Science-Using-Python&theme=default" />
 
