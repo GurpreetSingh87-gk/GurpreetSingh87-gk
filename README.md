@@ -31,11 +31,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetSingh87-gk)](https://github.com/GurpreetSingh87-gk/github-readme-stats)
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/GurpreetSingh87-gk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GurpreetSingh87-gk&stroke=ffffff&background=14532d&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
 ###  Top Repositories
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Python-Programs&theme=default" />
