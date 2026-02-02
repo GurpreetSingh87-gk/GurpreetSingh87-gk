@@ -39,10 +39,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=C-Plus-Programs&theme=default" />
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurpreetSingh87-gk&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetSingh87-gk&layout=compact)
+### GitHub Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GurpreetSingh87-gk)
