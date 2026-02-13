@@ -41,7 +41,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/GurpreetSingh87-gk" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
 </a>
 
@@ -65,8 +65,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Data-Science-Using-Python)
 
-
-### GitHub Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=GurpreetSingh87-gk)
 
