@@ -15,7 +15,7 @@
 - 🎓 Pursuing **NIELIT A Level**
 - 💻 Passionate about Python, AI & Software Development
 - 📚 Currently  learning Python, C++, Data Science, SQL, Web Designing.
-- 🎯 Goal: Become a Professional Software Developer
+- 🎯 Goal: Become a Professional Data Analyst 
 
 ---
 
