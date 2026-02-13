@@ -1,68 +1,77 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gurpreet Singh
-=======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
+<h3 align="center"> NIELIT A Level student | Python Programmer | C++ Programmer | Aspiring Data Analyst</h3>
 
-💻 NIELIT A Level student | Learning Python, C++, SQL , and Web Development | Passionate about coding and problem-solving | Building my portfolio one project at a time 🚀
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-* 🌍  I'm based in New Delhi
-* ✉️  You can contact me at [gurpreet87449@gmail.com](mailto:gurpreet87449@gmail.com)
-* 🧠  I'm currently learning Python, C++, Data Science, SQL, Web Designing.
-* 👥  I'm looking to collaborate on Projects
+## 🚀 About Me
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" />
-</a>
+- 🎓 Pursuing **NIELIT A Level**
+- 💻 Passionate about Python, AI & Software Development
+- 📚 Currently  learning Python, C++, Data Science, SQL, Web Designing.
+- 🎯 Goal: Become a Professional Software Developer
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" />
-</a>
+---
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" />
-</a>
+## 🛠️ Tech Stack
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" />
-</a>
-
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" />
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" />
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" />
-</a>
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,java" />
 </p>
 
-### Socials
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-<a href="https://github.com/GurpreetSingh87-gk" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
-</a>
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<a href="https://www.linkedin.com/in/gurpreet-singh-43b59638a/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
-</a>
-</a></p>
+---
 
-### Badges
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GurpreetSingh87-gk&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GurpreetSingh87-gk&show_icons=true&theme=default" height="250"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GurpreetSingh87-gk&layout=compact&theme=default" height="250"/>
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GurpreetSingh87-gk&theme=default)
+---
 
+## 🔥 Streak Stats
 
-###  Top Repositories
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GurpreetSingh87-gk&theme=default"/>
+</p>
 
-![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Python-Programs)
+---
 
-![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=C-Plus-Programs)
+## 🚀 Featured Projects
 
-![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Data-Science-Using-Python)
+- 🔹 Weather App (Python + API)
+- 🔹 Sign In Form (Python)
+- 🔹 Student Management System (C++)
+- 🔹 Calculator App (CustomTkinter)
+- 🔹 Monthly Expense Tracker
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/GurpreetSingh87-gk">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>     
+  <a href="https://www.linkedin.com/in/gurpreet-singh-43b59638a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐️ From Gurpreet Singh
 
 
