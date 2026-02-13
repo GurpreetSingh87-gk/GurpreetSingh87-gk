@@ -9,7 +9,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm currently learning Python, C++, Data Science, SQL, Web Designing.
 * 👥  I'm looking to collaborate on Projects
 
-
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" />
@@ -40,7 +39,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 </p>
 
-
 ### Socials
 
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
@@ -54,21 +52,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=GurpreetSingh87-gk&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GurpreetSingh87-gk&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetSingh87-gk)](https://github.com/GurpreetSingh87-gk/github-readme-stats)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GurpreetSingh87-gk&theme=default)
+
 
 ###  Top Repositories
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Python-Programs&theme=default"/>
+![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Python-Programs)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Data-Science-Using-Python&theme=default"/>
+![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=C-Plus-Programs)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=C-Plus-Programs&theme=default"/>
+![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Data-Science-Using-Python)
+
 
 ### GitHub Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GurpreetSingh87-gk)
-
-
 
