@@ -23,12 +23,12 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,java,r"/>
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ### ⚙️ Tools
