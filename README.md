@@ -66,11 +66,6 @@
 
 ---
 
-### Top Repositories
-
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=GurpreetSingh87-gk&repo=Java-Programs)
-
----
 ## 🌐 Connect With Me
 
 <p>
