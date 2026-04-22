@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=2196F3&size=25&center=true&vCenter=true&width=500&lines=NIELIT+A+Level+Student;Python+Programmer;C%2B%2B+Programmer;Aspiring+Data+Analyst" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GurpreetSingh87-gk&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
