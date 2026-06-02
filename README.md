@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2196F3&size=25&center=true&vCenter=true&width=500&lines=NIELIT+A+Level+Student;Python+Programmer;C%2B%2B+Programmer;Aspiring+Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2196F3&size=25&center=true&vCenter=true&width=500&lines=NIELIT+A+Level+Student;Full-Stack+Developer;Python+Developer;C%2B%2B+Programmer" />
 </p>
 
 ---
