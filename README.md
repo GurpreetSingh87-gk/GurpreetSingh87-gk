@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GurpreetSingh87-gk&show_icons=true&theme=default" height="250"/>
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GurpreetSingh87-gk&show_icons=true&theme=default" />
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GurpreetSingh87-gk&layout=compact&theme=default" height="250"/>
 </p>
