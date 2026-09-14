@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2196F3&size=25&center=true&vCenter=true&width=500&lines=NIELIT+A+Level+Student;Full-Stack+Developer;Python+Developer;C%2B%2B+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2196F3&size=25&center=true&vCenter=true&width=500&lines=NIELIT+A+Level+Student;Python+Developer"/>
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -13,7 +12,7 @@
 - 📚 Currently  learning Python, C++, Data Science, SQL, Web Designing.
 - 🎯 Goal: Become a Professional Data Analyst 
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -54,11 +53,10 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 Weather App (Python + API)
-- 🔹 Sign In Form (Python)
-- 🔹 Student Management System (C++)
-- 🔹 Calculator App (CustomTkinter)
-- 🔹 Monthly Expense Tracker
+-  Weather App (Python + API)
+-  Sign In Form (Python)
+-  Student Performance Analysis System (Python, Customtkinter)
+-  Monthly Expense Tracker(Python, Pandas, Matplotlib)
 
 ---
 
