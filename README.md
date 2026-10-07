@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,java,r"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,java,"/>
 </p>
 
 ### 🗄️ Database
