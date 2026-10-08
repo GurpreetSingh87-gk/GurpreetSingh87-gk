@@ -50,6 +50,8 @@
 
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GurpreetSingh87-gk&show_icons=true&theme=default" />
+  <br>
+  <br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetSingh87-gk&stats_format=bytes"/>  
 </p>
